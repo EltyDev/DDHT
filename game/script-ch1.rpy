@@ -80,10 +80,7 @@ label ch1_next:
         with wipeleft
         mc "Attend moi juste 30 secondes le temps que je me change."
         n "Oki"
-        return
-    else:
-        return
-        show natsuki 4by at t11
+                show natsuki 4by at t11
         n "Tu en met du temps pour t'habiller."
         mc "Je cherchais des habilles que je peux sâlire"
         show natsuki 4ba at t11
@@ -144,6 +141,10 @@ label ch1_next:
         mc "Bon il reste un peu plus d'une heure avant d'aller chez Monika, une idée sur ce qu'on peut faire ?"
         show natsuki 5ba at t11
         n "On peut aller se promener si tu veux, tu préfères en ville ou au parc ?"
+        return
+    else:
+        return
+
         
 
 
