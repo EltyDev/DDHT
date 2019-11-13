@@ -1,2 +1,4 @@
 # DDHT
-Doki Doki Holiday Time is a mod of Doki Doki Literature Club. I'm not afiliate with the Team Salvato, it's a fangame
+Doki Doki Holiday Time est un mod du jeu Doki Doki Literature CLub crée en collaboration avec un ami. Je rappele que nous sommes **en aucun cas** affilié à la Team Salvato qui sont les créateurs du jeu
+## But
+Ce mod raconterais une histoire après les évenements de DDLC qui se passerais pendant les vacances quand Monika décide de continuer le club ...
